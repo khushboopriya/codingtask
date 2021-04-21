@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+
+}
+
+p{
+    color: white;
+    
+    
+}
+.pound-grid{
+    background-color: green;
+    width: 20vw;
+    height: 15vh;
+    color: white;
+}
+.ounce-grid{
+    background-color: red;
+    width: 20vw;
+    height: 15vh;
+    color: white;
+}
+.gram-grid{
+    background-color: blue;
+    width: 20vw;
+    height: 15vh;
+    color: white;
+}
+
+/* .main{
+    display: flex;
+    flex-direction: column;
+    row-gap: 2vh;
+} */
+
+.main{
+    margin-left: 40vw;
+}
